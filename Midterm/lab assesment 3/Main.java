@@ -6,7 +6,7 @@ public class Main {
 		lp[2] = new Laptop("ASUS", 250.00, 16);
 		lp[3] = new Laptop("Acer", 112.05, 8);
 		
-		for(int i = 0; i < 4; i++) {
+		for(int i = 0; i < lp.length; i++) {
 			lp[i].display();
 		}
 		
