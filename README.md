@@ -20,6 +20,7 @@ This repository contains all the Java programs, exercises, and lab assignments I
 - `Main.java` — Main class used in different exercises.  
 - `StringDemo.java` — String handling examples.  
 - `Student.java` — Example of a class used in object-oriented exercises.
+- `RandomNumber.java` — A simple random number generator.
 
 ---
 
@@ -37,3 +38,4 @@ Feel free to explore the code and leave suggestions via GitHub issues.
 This repository is primarily for learning and self-practice.
 
 ---
+
