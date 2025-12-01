@@ -21,6 +21,7 @@ This repository contains all the Java programs, exercises, and lab assignments I
 - `StringDemo.java` — String handling examples.  
 - `Student.java` — Example of a class used in object-oriented exercises.
 - `RandomNumber.java` — A simple random number generator.
+- `Factorial.java` — A program to calculate factorials.
 
 ---
 
