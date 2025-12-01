@@ -20,4 +20,20 @@ This repository contains all the Java programs, exercises, and lab assignments I
 - `Main.java` — Main class used in different exercises.  
 - `StringDemo.java` — String handling examples.  
 - `Student.java` — Example of a class used in object-oriented exercises.
+
+---
+
+## 🎯 Purpose
+
+- Practice object-oriented programming concepts in Java  
+- Build a personal reference for classes, inheritance, encapsulation, polymorphism, abstraction and arrays  
+- Track progress for the OOP1 course  
+
+---
+
+## 📬 Feedback
+
+Feel free to explore the code and leave suggestions via GitHub issues.  
+This repository is primarily for learning and self-practice.
+
 ---
