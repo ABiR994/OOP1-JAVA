@@ -11,14 +11,19 @@ public class Factorial {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter a non-negative integer: ");
-        int n = scanner.nextInt();
-        scanner.close();
+        int n = 0;
 
-        if(n < 0) {
-            System.out.println("Factorial is not defined for negative numbers.");
-        } else {
-            System.out.println("Factorial of " + n + " is: " + factorial(n));
+        while(true) {
+            System.out.print("Enter a non-negative integer: ");
+            n = scanner.nextInt();
+
+            if(n >= 0) {
+                scanner.close();
+                break;
+            }
+            System.out.println("\nInvalid input. Please enter a non-negative integer.\n");
         }
+
+        System.out.println("\nFactorial of " + n + " is: " + factorial(n));
     }
 }
