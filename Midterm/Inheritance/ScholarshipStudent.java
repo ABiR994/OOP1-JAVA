@@ -24,7 +24,7 @@ public class ScholarshipStudent extends Student
 	public void displayInformation ()
 	{
 		super.displayInformation();
-		System.out.println(" Amount: " +amount);
+		System.out.println("Amount: " +amount);
 	}
 	}
 	
